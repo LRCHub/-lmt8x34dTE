@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Tell Me",
+  "base_artist": "Bell Angel",
+  "createdAt": "2026-03-08T13:25:10.904095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Tell Me",
+      "artist": "Joel Crouse",
+      "has_synced": true,
+      "path": "select/01_Don't_Tell_Me_Joel_Crouse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Tell Me What To Do",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/02_Don't_Tell_Me_What_To_Do_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Tell Me Your Troubles",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/03_Don't_Tell_Me_Your_Troubles_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grandpa (Tell Me 'Bout the Good Old Days)",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/04_Grandpa_(Tell_Me_'Bout_the_Good_Old_Days)_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/05_Grandpa_(Tell_Me_'Bout_The_Good_Old_Days)_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Please Don't Tell Me How the Story Ends",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/06_Please_Don't_Tell_Me_How_the_Story_Ends_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tell Me I Was Dreaming",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/07_Tell_Me_I_Was_Dreaming_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me Why",
+      "artist": "Wynonna",
+      "has_synced": false,
+      "path": "select/08_Tell_Me_Why_Wynonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Me Why",
+      "artist": "Wynonna Judd",
+      "has_synced": false,
+      "path": "select/09_Tell_Me_Why_Wynonna_Judd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Then You Can Tell Me Goodbye",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/10_Then_You_Can_Tell_Me_Goodbye_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Tell Me",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/11_Don't_Tell_Me_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tell Me Why",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Tell_Me_Why_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Me A Secret",
+      "artist": "Ludacris feat. Ne-Yo",
+      "has_synced": false,
+      "path": "select/13_Tell_Me_A_Secret_Ludacris_feat._Ne-Yo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tell Me a Secret (feat. Ne-Yo)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/14_Tell_Me_a_Secret_(feat._Ne-Yo)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tell Me Where It Hurts",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/15_Tell_Me_Where_It_Hurts_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Tell Me To Do The Math(s)",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/16_Don't_Tell_Me_To_Do_The_Math(s)_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Me",
+      "artist": "Bell Angel",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Me_Bell_Angel.txt"
+    }
+  ]
+}
